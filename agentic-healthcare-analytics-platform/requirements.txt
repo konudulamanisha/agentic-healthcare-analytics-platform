@@ -1,0 +1,21 @@
+# Agentic Healthcare Analytics Platform
+# Pinned dependencies for reproducibility
+
+# Data & Machine Learning
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+matplotlib==3.10.8
+
+# Agentic AI / LLM Orchestration
+langgraph==1.2.1
+langchain-core==1.4.0
+
+# API / Web Server
+fastapi==0.136.3
+uvicorn==0.48.0
+
+# Testing
+pytest==8.3.5
+pytest-cov==6.0.0
+httpx==0.28.1
